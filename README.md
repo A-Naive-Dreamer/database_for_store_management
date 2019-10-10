@@ -10,8 +10,6 @@ Database designed specifically for Store Management.
 2. [Table of Contents](#table-of-contents)
 3. [Getting Started](#getting-started)
    - [Requirements](#requirements)
-   - [Installation](#installation)
-   - [Usage](#usage)
    - [Screenshots](#screenshots)
      1. [Logical Entity Relationship Diagram](#logical-entity-relationship-diagram)
      2. [Physical Entity Relationship Diagram](#physical-entity-relationship-diagram)
@@ -25,10 +23,6 @@ Database designed specifically for Store Management.
 1. DB Browser for SQLite
 2. XAMPP
 
-### Installation
-
-### Usage
-
 ### Screenshots
 
 #### Logical Entity Relationship Diagram
@@ -41,7 +35,7 @@ Database designed specifically for Store Management.
 
 ## Credits
 
-1. [A Naive Dreamer](https://github.com/a-naive-dreamer)
+1. [Atallabela Yosua](https://github.com/a-naive-dreamer)
 
 ## License
 
